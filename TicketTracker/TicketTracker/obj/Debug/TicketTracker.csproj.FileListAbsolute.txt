@@ -1,0 +1,46 @@
+C:\Projects\TicketTracker\TicketTracker\bin\Debug\TicketTracker.exe.config
+C:\Projects\TicketTracker\TicketTracker\bin\Debug\TicketTracker.exe
+C:\Projects\TicketTracker\TicketTracker\bin\Debug\TicketTracker.pdb
+C:\Projects\TicketTracker\TicketTracker\obj\Debug\TicketTracker.csproj.AssemblyReference.cache
+C:\Projects\TicketTracker\TicketTracker\obj\Debug\TicketTracker.csproj.SuggestedBindingRedirects.cache
+C:\Projects\TicketTracker\TicketTracker\obj\Debug\TicketTracker.LogIn.resources
+C:\Projects\TicketTracker\TicketTracker\obj\Debug\TicketTracker.Properties.Resources.resources
+C:\Projects\TicketTracker\TicketTracker\obj\Debug\TicketTracker.csproj.GenerateResource.cache
+C:\Projects\TicketTracker\TicketTracker\obj\Debug\TicketTracker.csproj.CoreCompileInputs.cache
+C:\Projects\TicketTracker\TicketTracker\obj\Debug\TicketTracker.exe
+C:\Projects\TicketTracker\TicketTracker\obj\Debug\TicketTracker.pdb
+C:\Projects\TicketTracker\TicketTracker\obj\Debug\TicketTracker.UserLayout.resources
+C:\Projects\TicketTracker\TicketTracker\obj\Debug\TicketTracker.NewTicket.resources
+C:\Projects\TicketTracker\TicketTracker\obj\Debug\TicketTracker.Ticket.resources
+C:\Projects\TicketTracker\TicketTracker\obj\Debug\TicketTracker.EditTicketAdmin.resources
+C:\Projects\TicketTracker\TicketTracker\obj\Debug\TicketTracker.viewdetail.resources
+C:\Users\Hafiza\Documents\visual studio\TicketTracker\TicketTracker\bin\Debug\TicketTracker.exe.config
+C:\Users\Hafiza\Documents\visual studio\TicketTracker\TicketTracker\bin\Debug\TicketTracker.exe
+C:\Users\Hafiza\Documents\visual studio\TicketTracker\TicketTracker\bin\Debug\TicketTracker.pdb
+C:\Users\Hafiza\Documents\visual studio\TicketTracker\TicketTracker\obj\Debug\TicketTracker.csprojAssemblyReference.cache
+C:\Users\Hafiza\Documents\visual studio\TicketTracker\TicketTracker\obj\Debug\TicketTracker.EditTicketAdmin.resources
+C:\Users\Hafiza\Documents\visual studio\TicketTracker\TicketTracker\obj\Debug\TicketTracker.LogIn.resources
+C:\Users\Hafiza\Documents\visual studio\TicketTracker\TicketTracker\obj\Debug\TicketTracker.NewTicket.resources
+C:\Users\Hafiza\Documents\visual studio\TicketTracker\TicketTracker\obj\Debug\TicketTracker.Properties.Resources.resources
+C:\Users\Hafiza\Documents\visual studio\TicketTracker\TicketTracker\obj\Debug\TicketTracker.Ticket.resources
+C:\Users\Hafiza\Documents\visual studio\TicketTracker\TicketTracker\obj\Debug\TicketTracker.UserLayout.resources
+C:\Users\Hafiza\Documents\visual studio\TicketTracker\TicketTracker\obj\Debug\TicketTracker.viewdetail.resources
+C:\Users\Hafiza\Documents\visual studio\TicketTracker\TicketTracker\obj\Debug\TicketTracker.csproj.GenerateResource.cache
+C:\Users\Hafiza\Documents\visual studio\TicketTracker\TicketTracker\obj\Debug\TicketTracker.csproj.CoreCompileInputs.cache
+C:\Users\Hafiza\Documents\visual studio\TicketTracker\TicketTracker\obj\Debug\TicketTracker.exe
+C:\Users\Hafiza\Documents\visual studio\TicketTracker\TicketTracker\obj\Debug\TicketTracker.pdb
+C:\Users\PMLS\Documents\TicketTracker\TicketTracker\bin\Debug\TicketTracker.exe.config
+C:\Users\PMLS\Documents\TicketTracker\TicketTracker\bin\Debug\TicketTracker.exe
+C:\Users\PMLS\Documents\TicketTracker\TicketTracker\bin\Debug\TicketTracker.pdb
+C:\Users\PMLS\Documents\TicketTracker\TicketTracker\obj\Debug\TicketTracker.csproj.AssemblyReference.cache
+C:\Users\PMLS\Documents\TicketTracker\TicketTracker\obj\Debug\TicketTracker.EditTicketAdmin.resources
+C:\Users\PMLS\Documents\TicketTracker\TicketTracker\obj\Debug\TicketTracker.LogIn.resources
+C:\Users\PMLS\Documents\TicketTracker\TicketTracker\obj\Debug\TicketTracker.NewTicket.resources
+C:\Users\PMLS\Documents\TicketTracker\TicketTracker\obj\Debug\TicketTracker.Properties.Resources.resources
+C:\Users\PMLS\Documents\TicketTracker\TicketTracker\obj\Debug\TicketTracker.Ticket.resources
+C:\Users\PMLS\Documents\TicketTracker\TicketTracker\obj\Debug\TicketTracker.UserLayout.resources
+C:\Users\PMLS\Documents\TicketTracker\TicketTracker\obj\Debug\TicketTracker.viewdetail.resources
+C:\Users\PMLS\Documents\TicketTracker\TicketTracker\obj\Debug\TicketTracker.csproj.GenerateResource.cache
+C:\Users\PMLS\Documents\TicketTracker\TicketTracker\obj\Debug\TicketTracker.csproj.CoreCompileInputs.cache
+C:\Users\PMLS\Documents\TicketTracker\TicketTracker\obj\Debug\TicketTracker.exe
+C:\Users\PMLS\Documents\TicketTracker\TicketTracker\obj\Debug\TicketTracker.pdb
